@@ -29,9 +29,12 @@ npm install puppeteer
 JavaScript was used as it offers efficiency with its well built and structured patterns and functions, making the script more compact.
 Node.js as it allows you to run JavaScript on the server.It opens a file on the server and returns the content to the clien. 
 # procedure 
-Steps 	Description.
-Require	Require - install libraries.
-Read sourc -	Create JS-object-notation & read config.json file.
+Steps 	Description. 
+
+Require	Require - install libraries. 
+
+Read sourc -	Create JS-object-notation & read config.json file. 
+
 Parse JSON -	Create a JS-object and manipulate the data.
 Function	 - create async function to run the program.
 Browser    -	Use puppeteer to launch browser.
