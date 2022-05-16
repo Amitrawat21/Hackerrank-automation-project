@@ -71,7 +71,9 @@ Moderator-	Add moderator in each contest.
 
 Close Tab-	Close new tab. 
 
-Last Page-	Program stops after automation completed.
+Last Page-	Program stops after automation completed. 
+# run on terminal 
+node .\Hackerrank_Automation\ --url=https://www.hackerrank.com --config=config.json.
  
  
  
